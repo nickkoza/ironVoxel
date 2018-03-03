@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 1b734f4c2ab318c49ae720dd1c3fad25
+labels:
+- voxel
+- terrain
+- infinite
+- world
+NativeFormatImporter:
+  userData: 

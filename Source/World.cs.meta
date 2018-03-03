@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1edcd60b41a8c59499b95f2b4c0b2046
+labels:
+- voxel
+- infinite
+- world
+- terrain
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
