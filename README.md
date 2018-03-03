@@ -8,3 +8,5 @@ I developed this Unity voxel game library in 2013 and 2014 and sold it for a cou
 * Asynchronous in as many key areas as I could
 * 100% C#, no DLLs
 
+## Demo & Screenshots
+The Windows demo and screenshots from the original ironVoxel website are included in the `Website Resources` folder.
